@@ -1,0 +1,9 @@
+{
+	"name": "DF-CTS",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9ef64e2d-f37b-41f8-ab2a-9ee4079c15c1",
+		"tenantId": "b30cf1bf-aca5-4cec-b716-7ca5a79c2f8b"
+	}
+}
